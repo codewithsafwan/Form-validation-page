@@ -19,11 +19,7 @@ The Form Validation Page project provides a user-friendly form for collecting us
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser.
 3. Fill out the form and submit to see the validation in action.
-
-## Live Preview
-
-[Click here](live_preview_link) to see a live preview of the Form Validation Page.
-
+   
 ## Contributing
 
 If you want to contribute to this project, please follow these steps:
